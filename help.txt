@@ -1,0 +1,4 @@
+ahla ya jme3a
+1.ranna nessina barcha marrat await fe les action 9bal kelmet axios
+2.med 3amel 9ablel kol end point 3amel /api donc lazemena nzidouha fe les endpints el kol par exemple /contacts => /api/contacts
+3.nsssina mabadlnech isLoading:false fel UPDATE_USER_SUCCESS
